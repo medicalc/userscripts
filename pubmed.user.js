@@ -3,6 +3,7 @@
 // @version  1.0.0
 // @grant    A. Baluja. License GPL v.3
 // @description   Using JQuery to override !important properties
+// @namespace     github
 // @include       https://pubmed.ncbi.nlm.nih.gov
 // ==/UserScript==
 
