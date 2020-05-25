@@ -7,5 +7,5 @@
 // ==/UserScript==
 
 $(document).ready(function(){
-    $('#txt').attr('div.ncbi-alerts', 'display: none !important');
+    $('#txt').attr('div.ncbi-alerts', 'colour: lightblue !important');
 });
